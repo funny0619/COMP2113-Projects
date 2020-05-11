@@ -1,5 +1,7 @@
 Team 166 (The Gambling Trail)
 
+Video Link: https://drive.google.com/file/d/1YEwar-qOC3r_mJ_W_3rZwL8EFS3QNFfe/view?usp=sharing 
+
 Team Members
 
 0. Qi, Lerong (Ray) UID:3035554672
