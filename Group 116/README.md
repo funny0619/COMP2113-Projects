@@ -85,6 +85,10 @@ type the following into the terminal:
 
 make -f makefile
 
+For those using mingw64 for testing on windows:
+
+mingw32-make -f makefile
+
 then run the program Gambling_Trail:
 ./Gambling_Trail
 
