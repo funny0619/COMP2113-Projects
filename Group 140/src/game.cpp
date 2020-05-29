@@ -1,16 +1,10 @@
 /*
-        HKU ENGG 1340 Programming and technologies
-        Group 140 (2019-2020 2nd Semester)
-
-        AUTHOR
-        TAM CHUN KIT            (3035686554)
-        CHOW NAM FUNG           (3035712767)
 
         DATE
-                2020-05-07
+        2020-05-07
 
         FILENAME
-                controller.cpp
+        controller.cpp
 
         REFERENCES
 

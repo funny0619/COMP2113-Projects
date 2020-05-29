@@ -1,17 +1,10 @@
 /*
-        HKU ENGG 1340 Programming and technologies
-        Group 140 (2019-2020 2nd Semester)
-
-        AUTHOR
-        TAM CHUN KIT	(3035686554)
-        CHOW NAM FUNG	(3035712767)
 
         DATE
         2020-05-08
 
         FILENAME
-        
-                bookkeeper.cpp
+        bookkeeper.cpp
 
         REFERENCES
 
@@ -19,8 +12,6 @@
                 - https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm
                 - https://stackoverflow.com/questions/2342162/stdstring-formatting-like-sprintf
                 - https://www.geeksforgeeks.org/csv-file-management-using-c/
-
-
 
         VIEW
                 Tabsize	:	8
