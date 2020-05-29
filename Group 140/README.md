@@ -79,15 +79,9 @@ Tetris is a traditional and common game, where blocks in different shapes drop f
    1. Linux with GCC installed (`g++`)
    2. macOS with Apple LLVM C++ compiler installed (`clang++`)
    3. FreeBSD with LLVM C++ compiler installed (`c++`)
+   4. Windows 10 with Windows Subsystem for Linux and Linux distro installed. (WSL)
 
-   - Provided that you also have standard c library installed on your system.
-
-   > **Note**
-   >
-   > Theoretically, Linux Subsystem on Windows (WSL) should also works. 
-   > But it is not tested on that platform.
-   >
-   > ***A native executable for Windows is not available.***
+   - Provided that you also have standard C library installed on your system.
 
 ### Compiling from source
 
@@ -392,4 +386,5 @@ This code has referred and/or directly quoted code from the following sources
 3. Android (Termux, aarch64)
 4. Ubuntu 18.04 (amd64)
 5. FreeBSD 11.2 (amd64)
+6. iOS 13.1.2 (Jailbroken, aarch64)
 
